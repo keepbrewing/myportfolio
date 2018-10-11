@@ -1,0 +1,36 @@
+body{
+	/*min-height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size:cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background: -webkit-linear-gradient(43.15deg, #290a59, #07d6c3);
+    background: -moz-linear-gradient(43.15deg, #290a59, #07d6c3);
+    background: -ms-linear-gradient(43.15deg, #290a59, #07d6c3);
+    background: -o-linear-gradient(43.15deg, #290a59, #07d6c3);
+    background: linear-gradient(43.15deg, #290a59, #07d6c3);*/
+    background: linear-gradient(43.15deg, #290a59, #07d6c3) fixed;
+}
+
+main{
+	position: relative;
+}
+
+#mainpic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	max-width: 100%;
+	height: auto;
+}
+
+#sphere{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	max-width: 100%;
+	height: auto;
+}
