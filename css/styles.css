@@ -242,6 +242,7 @@ i{
   -moz-animation: bounce .3s infinite alternate;
   animation: bounce .3s infinite alternate;
 }
+/*
 @-webkit-keyframes fadeOut {
   to {
     opacity: 0;
@@ -261,3 +262,26 @@ i{
   animation-play-state: paused;
 }
 
+#port{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+	right: 650px;
+	top:550px;
+	z-index: 23;
+}*/
+
+  .navbar-nav {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+
+  .navbar-nav li{
+  	font-size: 10px;
+  }
+
+  section > p{
+  	font-size: 20px;
+  }
